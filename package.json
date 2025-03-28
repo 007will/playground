@@ -1,0 +1,7 @@
+{
+  "name": "playground",
+  "packageManager": "yarn@4.7.0",
+  "devDependencies": {
+    "cypress": "14.2.0"
+  }
+}
